@@ -1,4 +1,4 @@
-package basico.cursojava.aula10;
+package sintaxe.variaveis;
 
 public class Texto {
     public static void main(String[] args) {

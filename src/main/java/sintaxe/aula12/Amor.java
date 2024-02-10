@@ -1,4 +1,4 @@
-package basico.cursojava.aula12;
+package sintaxe.aula12;
 
 public class Amor {
     public static void main(String[] args) {

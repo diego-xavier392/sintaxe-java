@@ -1,4 +1,4 @@
-package basico.cursojava.aula11;
+package sintaxe.aula11;
 
 public class variavelPontoFlutuante {
     public static void main(String[] args) {

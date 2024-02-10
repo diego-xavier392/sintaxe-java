@@ -1,6 +1,6 @@
-package basico.cursojava.aula11;
+package sintaxe.aula11;
 
-import basico.cursojava.aula10.Numero;
+import sintaxe.variaveis.Numero;
 
 public class Sum extends Numero {
 

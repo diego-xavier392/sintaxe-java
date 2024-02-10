@@ -1,4 +1,4 @@
-package basico.cursojava.aula10;
+package sintaxe.variaveis;
 
 
 public class AspasSimples {

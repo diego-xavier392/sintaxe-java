@@ -1,4 +1,4 @@
-package cursoExcript.Aula16;
+package sintaxe.Aula16;
 import java.util.Scanner;
 
 public class ContinuaçãoAul15 {

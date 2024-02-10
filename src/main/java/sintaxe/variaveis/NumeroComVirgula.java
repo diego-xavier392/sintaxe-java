@@ -1,6 +1,4 @@
-package basico.cursojava.aula10;
-
-import java.lang.reflect.Field;
+package sintaxe.variaveis;
 
 public class NumeroComVirgula {
     public static void main(String[] args) {
