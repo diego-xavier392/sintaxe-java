@@ -1,8 +1,8 @@
-package sintaxe.aula11;
+package sintaxe.intro;
 
-import sintaxe.variaveis.Numero;
+import sintaxe.old.variaveis.Numero;
 
-public class Sum extends Numero {
+public class output extends Numero {
 
     public static void main(String[] args) {
         //Escreva um programa que some 2 números

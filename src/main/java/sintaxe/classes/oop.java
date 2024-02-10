@@ -1,7 +1,7 @@
-package sintaxe.Aula16;
+package sintaxe.classes;
 import java.util.Scanner;
 
-public class ContinuaçãoAul15 {
+public class oop {
 
     public static void main(String[] args) {
 

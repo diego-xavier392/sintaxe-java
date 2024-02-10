@@ -1,6 +1,6 @@
 package cursoExcript.Aula11;
 
-public class Exemplo01 {
+public class sintaxe {
     public static void main(String[] args) {
          // igual
         // dieferente

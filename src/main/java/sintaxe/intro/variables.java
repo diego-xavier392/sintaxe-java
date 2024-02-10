@@ -1,6 +1,6 @@
-package sintaxe.aula11;
+package sintaxe.intro;
 
-public class variavelPontoFlutuante {
+public class variables {
     public static void main(String[] args) {
 
 

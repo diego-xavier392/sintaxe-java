@@ -1,6 +1,6 @@
-package sintaxe.aula11;
+package sintaxe.intro;
 
-public class variaveisInteiras {
+public class comments {
 
     public static void main(String[] args) {
         byte idade01 = 20;

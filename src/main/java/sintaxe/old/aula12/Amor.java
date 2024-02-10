@@ -1,4 +1,4 @@
-package sintaxe.aula12;
+package sintaxe.old.aula12;
 
 public class Amor {
     public static void main(String[] args) {

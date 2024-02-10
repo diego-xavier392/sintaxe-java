@@ -1,4 +1,4 @@
-package sintaxe.variaveis;
+package sintaxe.old.variaveis;
 
 public class CertoErrado {
     public static void main(String[] args) {
