@@ -2,6 +2,7 @@ package sintaxe.intro;
 
 public class TypeCasting {
     public static void main(String[] args) {
+
         /* A conversão de tipo ocorre quando você atribui um valor de um tipo de dados primitivo a outro tipo.
         Java, existem dois tipos de conversão:
           1) Ampliando Casting (automaticamente) - convertendo um tipo menor em um tamanho de tipo maior

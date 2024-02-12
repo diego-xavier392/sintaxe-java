@@ -1,8 +1,6 @@
 package sintaxe.intro;
 
-import sintaxe.old.variaveis.Numero;
-
-public class Output extends Numero {
+public class Output {
     public static void main(String[] args) {
         // Print Text
       System.out.println( "Hello World!");
