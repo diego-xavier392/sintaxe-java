@@ -3,6 +3,7 @@ package cursoExcript.Aula10;
 public class Exemplo01 {
     public static void main(String[] args) {
 
+
         int num;
         num = 10;
 

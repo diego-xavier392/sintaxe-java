@@ -1,6 +1,5 @@
 package sintaxe.old.variaveis;
 
-
 public class AspasSimples {
     public static void main(String[] args) {
         char letraDoNome = 'D';
