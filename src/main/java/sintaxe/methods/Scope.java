@@ -1,4 +1,4 @@
-package sintaxe.Methods;
+package sintaxe.methods;
 
 public class Scope {
     public static void main(String[] args){

@@ -1,4 +1,4 @@
-package sintaxe.Methods;
+package sintaxe.methods;
 
 public class MethodParameters {
   static void myMethods(String fname, int age) {

@@ -1,4 +1,4 @@
-package sintaxe.Methods;
+package sintaxe.methods;
 
 public class MethodOverloading {
     static int methodOverloading(int x, int y) {
