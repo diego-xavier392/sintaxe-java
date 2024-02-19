@@ -2,14 +2,6 @@ package sintaxe.intro;
 
 public class Variables {
     public static void main(String[] args) {
-        // Variáveis ​​são contêineres para armazenar valores de dados.
-        /* tipos de variáveis:
-        .String- armazena texto, como "Olá". Os valores da string estão entre aspas duplas
-        .int- armazena inteiros (números inteiros), sem decimais, como 123 ou -123
-        .float- armazena números de ponto flutuante, com decimais, como 19,99 ou -19,99
-        .char- armazena caracteres únicos, como 'a' ou 'B'. Os valores de caracteres estão entre aspas simples
-        .boolean- armazena valores com dois estados: verdadeiro ou falso
-        */
 
           //variável que deve armazenar texto:
         String name = "João";
