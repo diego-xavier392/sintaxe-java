@@ -1,6 +1,6 @@
 package sintaxe.classes;
 
-public class classMethods {
+public class ClassMethods {
     public static void fullThrottle() {
         System.out.println("The car is going as fast as it can!");
     }
@@ -10,7 +10,7 @@ public class classMethods {
     }
 
     public static void main(String[] args) {
-        classMethods myCar = new classMethods();
+        ClassMethods myCar = new ClassMethods();
         myCar.fullThrottle();
         myCar.speed(200);
     }

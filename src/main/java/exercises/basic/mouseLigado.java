@@ -1,7 +1,5 @@
 package exercises.basic;
 
-import sintaxe.classes.classMethods;
-
 public class mouseLigado {
 
     //Methods
