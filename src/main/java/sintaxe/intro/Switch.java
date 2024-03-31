@@ -2,7 +2,7 @@ package sintaxe.intro;
 
 public class Switch {
     public static void main(String[] args) {
-        int day = 5;
+        int day = 7;
         switch (day) {
             case 1:
                 System.out.println("Monday");
